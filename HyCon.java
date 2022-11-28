@@ -8,7 +8,7 @@ import java.util.Iterator;
 import java.util.Scanner;
 
 public class HyCon {
-    static String key = "53c64cdd-e70f-47b7-94f7-9b2bb2328ae3";
+    static String key = "oop hypixel key :p";
     static String baseURL = "https://hyproxy.herokuapp.com";
     static HashMap<String, String> item;
 
