@@ -7,16 +7,16 @@ The project is a Hypixel API viewer, a revision to the first coding project I ev
 
 ## How to Run
 To run this project you need to import the json library in the repository. Due to software restrictions on school computers, Gradle or Maven were not available for this project. Trust me, I've tried. D: <br> <br>
-Assuming you are using Eclipse IDE,
+Assuming you are using Eclipse IDE, <br>
 
-1. Right-click on json-20220320.jar > Build Path > Config Build Path
-	Check json-20220320.jar
-	Apply and Close
-
-2. To run main, click on "No Launch Config" > "New Launch Config"
-	Launch Mode: Run
-	Launch Config Type: Java Application
-	Click Next
-	Main Class: client
+1. Right-click on json-20220320.jar > Build Path > Config Build Path <br>
+	Check json-20220320.jar <br>
+	Apply and Close <br>
+<br>
+2. To run main, click on "No Launch Config" > "New Launch Config" <br>
+	Launch Mode: Run <br>
+	Launch Config Type: Java Application <br> 
+	Click Next <br>
+	Main Class: client <br>
 
 From there, you should be able to run using the run button.
