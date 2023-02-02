@@ -1,4 +1,4 @@
-# My first forray into a major Java project! 
+# My first foray into a major Java project! 
 ### My AP Computer Science A final project! <br>
 Not paticularly clean nor a good example of good code, but with the school software restrictions many workarounds had to be used. The json library jar just sitting there is a great example of one. I made do with what I had in this project, and while I had many, many pains with the school restrictions I had lots of fun with this project!
 
